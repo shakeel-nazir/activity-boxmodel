@@ -79,7 +79,7 @@ figure {
     border-left: 3px dotted #008000;
 }
 
-Figcaption {
+figcaption {
     font-size: 1.75rem:
     margin: .5rem 0 0; 
 }
